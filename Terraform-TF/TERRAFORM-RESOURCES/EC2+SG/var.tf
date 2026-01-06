@@ -4,7 +4,7 @@ variable "ami_id" {
 }
 
 variable "key_name" {
-    default = "my_keypair"
+    default = "adesh-key"
   
 }
 
