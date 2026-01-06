@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket2" {
-    bucket =  "my-bucket-adityakadu"
+    bucket =  "my-bucket-adesh"
 
 tags = {
     Name = var.Name
